@@ -123,5 +123,5 @@ Issues / PR 歓迎します（個人開発のため対応はゆるやかです�
 
 # 👤 作者
 
-Takeo Saito
+Takeo Saito  
 👉 https://github.com/takeo-2026?utm_source=copilot.com
