@@ -1,4 +1,4 @@
-# LockIndicator — Caps/Num/Insert/Scroll を全モニター四隅に常時表示する軽量インジケータ
+# LockIndicator — Caps / Num / Insert / Scroll を画面表示するインジケータ
 
 **LockIndicator** は、Caps / Num / Insert / Scroll の各キー状態を Windows API から取得し、  
 **すべてのモニターの四隅に小型インジケータとして常時表示する JavaFX アプリ**です。  
