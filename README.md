@@ -32,7 +32,7 @@
 
 最新版はこちらからダウンロードできます。
 
-👉 https://github.com/takeo-2026/xxxxxxx
+👉 https://github.com/takeo-2026/LockIndicator-Release/releases  
 
 # 📸 スクリーンショット
 
