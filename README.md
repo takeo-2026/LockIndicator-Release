@@ -39,12 +39,12 @@
 ### **画面四隅にインジケータを表示した例**  
 各モニターの四隅に、Caps / Num / Insert / Scroll の状態がリアルタイムで表示されます。
 
-<img src="画面01_インジゲータ.png" width="800">
+<img src="fig01Indicator.png" width="800">
 
 ### **表示位置を選択する設定ウィンドウ**  
 チェックボックスで、左上 / 右上 / 左下 / 右下 の表示位置を切り替えられます。
 
-<img src="画面02_表示位置設定ウィンドウ.png" width="300">
+<img src="fig02Select.png" width="300">
 
 # ▶️ 使い方 — 
 
