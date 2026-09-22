@@ -1,3 +1,6 @@
+![release](https://img.shields.io/github/v/release/takeo-2026/LockIndicator-Release)
+![platform](https://img.shields.io/badge/platform-Windows-blue)
+
 # LockIndicator — Caps / Num / Insert / Scroll インジケータ
 
 **LockIndicator** は、Caps / Num / Insert / Scroll の各キー状態を Windows API から取得し、  
