@@ -119,7 +119,10 @@ Pull Request / Issue 大歓迎です。
 Issues / PR 歓迎します（個人開発のため対応はゆるやかです）。
 
 # 📘 関連記事
-（公開後に追記）
+
+LockIndicatorの開発経緯や実装方法については、Qiitaで公開しています。  
+
+Qiita https://qiita.com/pgb01471/items/f236175ab4e6cc85943b
 
 # 👤 作者
 
